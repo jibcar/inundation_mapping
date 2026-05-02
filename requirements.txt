@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+
+# Deep Learning
+torch
+
+# Geospatial
+rasterio
+
+# Visualization
+matplotlib
+
+# Utilities
+tqdm
